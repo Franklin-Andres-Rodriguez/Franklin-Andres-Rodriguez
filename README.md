@@ -6,7 +6,7 @@ Mi nombre es Franklin y soy ***Desarrollador Backend Junior*** con conocimientos
 
 ## Acerca de mí
 
-Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágiles (Scrum) y aportar soluciones innovadoras en entornos desafiantes.
+Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágiles (Scrum) y aporto soluciones innovadoras en entornos desafiantes.
 
 ---
 
