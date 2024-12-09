@@ -10,7 +10,7 @@ Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágil
 
 ---
 
-## Técnicas
+## Habilidades Técnicas
 
 1. **Lenguajes y Frameworks:** JavaScript, Python.
 2. **Bases de Datos:** MySQL.
