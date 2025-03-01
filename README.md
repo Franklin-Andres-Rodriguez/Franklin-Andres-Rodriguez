@@ -27,7 +27,5 @@ Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágil
 4. Resolución creativa de problemas.
 
 ---
-
 ### Tecnologías que uso
-
-[<img src="https://franklin-andres-rodriguez.github.io/mini-proyectos-web/index.html"]
+[![Tecnologías](https://ruta-a-tu-imagen.png)](https://franklin-andres-rodriguez.github.io/mini-proyectos-web/index.html)
