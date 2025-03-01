@@ -30,7 +30,4 @@ Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágil
 
 ### Tecnologías que uso
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>](https://developer.mozilla.org/es/docs/Web/HTML)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>](https://developer.mozilla.org/es/docs/Web/CSS)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://franklin-andres-rodriguez.github.io/mini-proyectos-web/index.html"]
