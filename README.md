@@ -1,6 +1,6 @@
 # ¡Hola 👋, ¿qué tal?
 
-Mi nombre es Franklin y soy ***Desarrollador Backend Junior*** con conocimientos básicos en Frontend. Soy de Colombia.
+Mi nombre es Franklin y soy ***Full-Stack Javascript*** 
 
 ---
 
