@@ -1,16 +1,16 @@
-# ¡Hola 👋, ¿qué tal?
+# ¡Hi 👋, ¿How are you?
 
-Mi nombre es Franklin y soy ***Full-Stack Javascript*** 
+My name is Franklin y I am ***Full-Stack Javascript*** 
 
 ---
 
-## Acerca de mí
+## About me
 
 Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágiles (Scrum) y aporto soluciones innovadoras en entornos desafiantes.
 
 ---
 
-## Habilidades Técnicas
+## Technical Skills
 
 1. **Lenguajes y Frameworks:** JavaScript.
 2. **Bases de Datos:** MySQL.
@@ -19,7 +19,7 @@ Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágil
 
 ---
 
-## Habilidades Blandas
+## Soft Skills
 
 1. Trabajo en equipo.
 2. Comunicación efectiva.
@@ -27,5 +27,5 @@ Me destaco por adaptarme rápidamente a equipos que utilizan metodologías ágil
 4. Resolución creativa de problemas.
 
 ---
-### Pagina de proyectos
+### My Portfolio
 [![Tecnologías](https://ruta-a-tu-imagen.png)](https://portfoliofranklin.netlify.app/)
