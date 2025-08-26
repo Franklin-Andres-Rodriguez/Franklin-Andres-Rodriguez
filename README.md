@@ -79,9 +79,13 @@ const franklin = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Franklin-Andres-Rodriguez&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Franklin-Andres-Rodriguez&show_icons=true&theme=dark&hide_border=true)](https://github.com/Franklin-Andres-Rodriguez)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-Andres-Rodriguez&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklin-Andres-Rodriguez&layout=compact&theme=dark&hide_border=true)](https://github.com/Franklin-Andres-Rodriguez)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Franklin-Andres-Rodriguez&theme=dark)](https://github.com/Franklin-Andres-Rodriguez)
+
+**🎯 Focus: Trading Platforms & EdTech Solutions**
 
 </div>
 
@@ -101,6 +105,6 @@ const franklin = {
 
 **⭐ Like my work? Star my repositories and let's build something amazing together! ⭐**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Franklin-Andres-Rodriguez&color=58A6FF&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=Franklin-Andres-Rodriguez&color=58A6FF&style=flat)](https://github.com/Franklin-Andres-Rodriguez)
 
 </div>
